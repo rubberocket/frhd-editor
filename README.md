@@ -1,3 +1,3 @@
 # frhd-editor
 
-The offline file for the FRHD offline editor
+The source code for the FRHD offline editor
