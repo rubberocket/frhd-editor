@@ -150,7 +150,7 @@ var GameSettings = {
                 },
                 "classname": "forwardcap",
                 "equiped": false,
-                "img": "http:\/\/cdn.kanohub.com\/free_rider_hd\/assets\/inventory\/head\/img\/v1\/classic.png",
+                "img": "hat-img/classic.png",
                 "show": true,
                 "script": "forwardcap.js",
                 "limited": false
