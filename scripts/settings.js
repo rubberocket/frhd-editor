@@ -152,7 +152,7 @@ var GameSettings = {
                 "equiped": false,
                 "img": "http:\/\/cdn.kanohub.com\/free_rider_hd\/assets\/inventory\/head\/img\/v1\/classic.png",
                 "show": true,
-                "script": "http:\/\/cdn.kanohub.com\/free_rider_hd\/assets\/inventory\/head\/scripts\/v1\/forwardcap.js",
+                "script": "forwardcap.js",
                 "limited": false
             }
         },
