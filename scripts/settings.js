@@ -1,7 +1,7 @@
 var GameSettings = {
     "embedded": false,
-    "basePlatformUrl": "http:\/\/www.kanohub.com\/~charlie\/kano\/apps\/tracks\/frhd",
-    "basePlatformExternalUrl": "http:\/\/www.kanohub.com\/~charlie\/kano\/apps\/tracks\/frhd",
+    "basePlatformUrl": "frhd",
+    "basePlatformExternalUrl": "frhd",
     "baseAssetUrl": true,
     "developerMode": false,
     "isChromeApp": true,
